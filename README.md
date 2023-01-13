@@ -10,11 +10,11 @@ Including data resampling (convert weekly data into daily), data scaling (normal
 
 Plot of GOOGL stock prices and Google Trends search frequency data (Before Data Scaling)
 
-![]
+![](https://github.com/shauryat1298/Multivariate-Time-Series-Analysis/blob/main/images/plot1.PNG?raw=true)
 
 Plot of GOOGL stock prices and Google Trends search frequency data (After Data Scaling)
 
-![]
+![](https://github.com/shauryat1298/Multivariate-Time-Series-Analysis/blob/main/images/plot2.PNG?raw=true)
 
 ## Feature Selection
 
@@ -26,27 +26,27 @@ Including ARIMAX, k-NN Regression, Decision Tree, Random Forest and LSTM network
 
 ARIMAX (Actual vs Prediction) Plot
 
-![]
+![](https://github.com/shauryat1298/Multivariate-Time-Series-Analysis/blob/main/images/arimax.PNG?raw=true)
 
 k-NN Regression (Actual vs Prediction) Plot
 
-![]
+![](https://github.com/shauryat1298/Multivariate-Time-Series-Analysis/blob/main/images/knn.PNG?raw=true)
 
 Decision Tree (Actual vs Prediction) Plot
 
-![]
+![](https://github.com/shauryat1298/Multivariate-Time-Series-Analysis/blob/main/images/dt.PNG?raw=true)
 
 Random Forest (Actual vs Prediction) Plot
 
-![]
+![](https://github.com/shauryat1298/Multivariate-Time-Series-Analysis/blob/main/images/rf.PNG?raw=true)
 
 LSTM (Actual vs Prediction) Plot
 
-![]
+![](https://github.com/shauryat1298/Multivariate-Time-Series-Analysis/blob/main/images/lstm.PNG?raw=true)
 
 ## Prediction Accuracy Comparison
 Use RMSE and Out-of-Sample prediction plots.
 
-![]
+![](https://github.com/shauryat1298/Multivariate-Time-Series-Analysis/blob/main/images/results.PNG?raw=true)
 
 We find ARIMAX as the best fitting model
